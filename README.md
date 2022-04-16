@@ -151,50 +151,7 @@ Step 1: Creating a new project in Eclipse
 
 
 All above mentioned file are attached via zip file all these are
-Outputs:
-Welcome page
- ![image](https://user-images.githubusercontent.com/85355371/163682311-3b1b7543-29cc-4581-928a-1fe307caa516.png)
 
-
-Admin login 
-![image](https://user-images.githubusercontent.com/85355371/163682315-8163fd23-b71a-4f78-9f93-5a33fe932334.png)
-
-Invalid credentials
-![image](https://user-images.githubusercontent.com/85355371/163682320-2a89b8ea-6f00-479a-8a59-3fde346ac597.png)
-
-
- 
-
-
-
-Admin access page:
- ![image](https://user-images.githubusercontent.com/85355371/163682317-960a53ad-c83f-4aab-9dbc-ee9a720e5659.png)
-
-Products:
- 
-![image](https://user-images.githubusercontent.com/85355371/163682322-48e96157-0247-49a0-95b1-4ab8189bd1bd.png)
-
-Product delete:
- 
-
-
-![image](https://user-images.githubusercontent.com/85355371/163682324-1d690b59-2b1c-4bbf-8981-e9dcdd240821.png)
-
-
-
-
-
-
-
-Users list:
- ![image](https://user-images.githubusercontent.com/85355371/163682329-19348719-5d25-4bdc-9498-e40f2f029353.png)
-
-User Search:
- 
-
-![image](https://user-images.githubusercontent.com/85355371/163682331-cdd578a5-60b7-44ff-877d-b5fff7e8794c.png)
-
-User purchase Report:
  
 
 Step 4: Pushing the code to GitHub repository
