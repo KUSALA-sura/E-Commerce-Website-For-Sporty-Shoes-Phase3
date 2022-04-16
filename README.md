@@ -134,9 +134,7 @@ https://github.com/KUSALA-sura/E-Commerce-Website-For-Sporty-Shoes-Phase3.git
 
 Directory Structure / package:
 
-![image](https://user-images.githubusercontent.com/85355371/163682305-2a376ea7-b623-420d-a746-f874e0313659.png)
-
- 
+![image](https://user-images.githubusercontent.com/85355371/163682474-46d19c1b-e035-437a-8573-d44ed929cd93.png)
 
 
 
