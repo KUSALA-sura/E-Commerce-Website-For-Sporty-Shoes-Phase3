@@ -64,7 +64,8 @@ TECHNOLOGIES AND TOOLS USED:
 
 
 2.	Architecture diagram / flow chart
- 
+ ![image](https://user-images.githubusercontent.com/85355371/163682281-4452af71-c855-4b27-9365-0498fa628574.png)
+
 
 2.1	Project Users Stories : ( Agile and Scrum )
 
@@ -112,7 +113,8 @@ https://github.com/KUSALA-sura/E-Commerce-Website-For-Sporty-Shoes-Phase3.git
 
 
 3. Screen shot : 
-	 
+	 ![image](https://user-images.githubusercontent.com/85355371/163682300-dfef3e2b-dc3b-4920-a8a0-deeaa64ccae9.png)
+
 
 4. How to run poject:
 	
@@ -132,6 +134,7 @@ https://github.com/KUSALA-sura/E-Commerce-Website-For-Sporty-Shoes-Phase3.git
 
 Directory Structure / package:
 
+![image](https://user-images.githubusercontent.com/85355371/163682305-2a376ea7-b623-420d-a746-f874e0313659.png)
 
  
 
@@ -150,10 +153,14 @@ Step 1: Creating a new project in Eclipse
 All above mentioned file are attached via zip file all these are
 Outputs:
 Welcome page
- 
+ ![image](https://user-images.githubusercontent.com/85355371/163682311-3b1b7543-29cc-4581-928a-1fe307caa516.png)
+
 
 Admin login 
+![image](https://user-images.githubusercontent.com/85355371/163682315-8163fd23-b71a-4f78-9f93-5a33fe932334.png)
+
 Invalid credentials
+![image](https://user-images.githubusercontent.com/85355371/163682320-2a89b8ea-6f00-479a-8a59-3fde346ac597.png)
 
 
  
@@ -161,13 +168,17 @@ Invalid credentials
 
 
 Admin access page:
- 
+ ![image](https://user-images.githubusercontent.com/85355371/163682317-960a53ad-c83f-4aab-9dbc-ee9a720e5659.png)
+
 Products:
  
+![image](https://user-images.githubusercontent.com/85355371/163682322-48e96157-0247-49a0-95b1-4ab8189bd1bd.png)
 
 Product delete:
  
 
+
+![image](https://user-images.githubusercontent.com/85355371/163682324-1d690b59-2b1c-4bbf-8981-e9dcdd240821.png)
 
 
 
@@ -176,10 +187,12 @@ Product delete:
 
 
 Users list:
- 
+ ![image](https://user-images.githubusercontent.com/85355371/163682329-19348719-5d25-4bdc-9498-e40f2f029353.png)
+
 User Search:
  
 
+![image](https://user-images.githubusercontent.com/85355371/163682331-cdd578a5-60b7-44ff-877d-b5fff7e8794c.png)
 
 User purchase Report:
  
